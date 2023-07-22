@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Kale</h1>
-<h3 align="center">A passionate frontend developer, Java Developer</h3>
+<h3 align="center">A passionate Software Developer, Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkale99&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkale99" /> </p>
 

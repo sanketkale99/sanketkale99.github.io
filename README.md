@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
     <style> .bg-custom {
-    background-color: #ff9900; 
+    background-color: #FFD7D7; 
 }</style>
 </head>
 <body>
@@ -55,10 +55,10 @@
                 <li><b>Version Control:</b> Git, GitHub</li>
                 <li><b>Web Technologies:</b> HTML, CSS, Angular, Servlets, JSP</li>
                 <li><b>API Development and Testing:</b> Postman</li>
-                <li>Frameworks/Libraries:</b> Spring Boot, Bootstrap</li>
+                <li><b>Frameworks/Libraries:</b> Spring Boot, Bootstrap</li>
                 <li><b>Tools / Platforms:</b> Postman, Heroku, Vercel, Android-Studio</li>
                 <li><b>Databases:</b> Oracle, MySQL</li>
-                <li></b>Software Development:</b> Data Structures, Agile Methodology</li>
+                <li><b>Software Development:</b> Data Structures, Agile Methodology</li>
             </ul>
         </div>
     </section>
@@ -104,7 +104,7 @@
     <!-- Courses section -->
     <section class="py-5">
         <div class="container">
-            <h2>Courses</h2>
+            <h2><b>Courses</b></h2>
             <ul>
                 <li>Java Full Stack Development - Linkcode Technologies Pvt.Ltd.</li>
                 <li>Spring: Spring MVC - LinkedIn Learning</li>
@@ -116,7 +116,7 @@
     <!-- Certificates section -->
     <section class="bg-light py-5">
         <div class="container">
-            <h2>Certificates</h2>
+            <h2><b>Certificates<b></h2>
             <ul>
                 <li>Avinya National Level Technical Competition - 1st Rank</li>
                 <li>Certificate of Participation: Level 1 E-Commerce & Tech Quiz of Flipkart GRiD 4.0 - Software Development Challenge organized by Flipkart</li>

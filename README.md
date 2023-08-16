@@ -2,20 +2,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanket Bapu Kale - Resume</title>
+    <title>Sanket Bapu Kale</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
+    <style> .bg-custom {
+    background-color: #ff9900; 
+}</style>
 </head>
 <body>
     <!-- Navigation bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<!--     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="#">Sanket Bapu Kale</a>
         </div>
-    </nav>
+    </nav> -->
 
     <!-- Profile section -->
-    <header class="bg-primary text-white text-center py-5">
+    <header class="bg-custom text-white text-center py-5"> 
         <div class="container">
             <h1 class="display-4">Sanket Bapu Kale</h1>
             <p class="lead">Software Developer | Full Stack Developer</p>

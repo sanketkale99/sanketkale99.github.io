@@ -116,7 +116,7 @@
     <!-- Certificates section -->
     <section class="bg-light py-5">
         <div class="container">
-            <h2><b>Certificates<b></h2>
+            <h2><b>Certificates</b></h2>
             <ul>
                 <li>Avinya National Level Technical Competition - 1st Rank</li>
                 <li>Certificate of Participation: Level 1 E-Commerce & Tech Quiz of Flipkart GRiD 4.0 - Software Development Challenge organized by Flipkart</li>

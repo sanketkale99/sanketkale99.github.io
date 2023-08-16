@@ -51,14 +51,14 @@
         <div class="container">
             <h2>Technical Skills</h2>
             <ul>
-                <li>Programming languages: Java, JavaScript</li>
-                <li>Version Control: Git, GitHub</li>
-                <li>Web Technologies: HTML, CSS, Angular, Servlets, JSP</li>
-                <li>API Development and Testing: Postman</li>
-                <li>Frameworks/Libraries: Spring Boot</li>
-                <li>Tools / Platforms: Postman, Heroku, Vercel, Android-Studio</li>
-                <li>Databases: Oracle, MySQL</li>
-                <li>Software Development: Data Structures, Agile Methodology</li>
+                <li><b>Programming languages:</b>C, C++, Java, JavaScript</li>
+                <li><b>Version Control:</b> Git, GitHub</li>
+                <li><b>Web Technologies:</b> HTML, CSS, Angular, Servlets, JSP</li>
+                <li><b>API Development and Testing:</b> Postman</li>
+                <li>Frameworks/Libraries:</b> Spring Boot, Bootstrap</li>
+                <li><b>Tools / Platforms:</b> Postman, Heroku, Vercel, Android-Studio</li>
+                <li><b>Databases:</b> Oracle, MySQL</li>
+                <li></b>Software Development:</b> Data Structures, Agile Methodology</li>
             </ul>
         </div>
     </section>
@@ -69,10 +69,10 @@
             <h2>Professional Experience</h2>
             <ul>
                 <li><strong>Java Developer</strong></li>
-                <li>Oasis Infobyte</li>
-                <li>Working on multiple tasks assigned to me</li>
+                <li><b>Oasis Infobyte</b></li>
                 <li>10/2022 – 11/2022, India</li>
-                <li>Completed all tasks on time.</li>
+                <li>Working on multiple tasks assigned to me. <br> Able to work individually on projects and completed all requirements before the timeline.</li>
+                
             </ul>
         </div>
     </section>
@@ -80,7 +80,7 @@
     <!-- Projects section -->
     <section class="bg-light py-5">
         <div class="container">
-            <h2>Projects</h2>
+            <h2><b>Projects</b></h2>
             <h4>Cakeify</h4>
             <ul>
                 <li>Developed a Spring Boot web application for a cake shop using Java, Spring Boot, Hibernate, and MySQL.</li>
